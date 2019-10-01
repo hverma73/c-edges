@@ -261,11 +261,7 @@ if(!empty(@$_SESSION['user_sess_id'])){
 	});
 </script>
 
-<script charset="UTF-8" src="//cdn.sendpulse.com/js/push/f6be0d32902587c8303160f18af55e6d_0.js" async></script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125052700-1"></script>
-<script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
