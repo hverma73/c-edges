@@ -273,13 +273,6 @@ section .section-title {
 
 
 
-<script type="text/javascript">
-var infolinks_pid = 3129905;
-var infolinks_wsid = 0;
-</script>
-<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
-
- <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(69051)</script> 
 
 </body>
 <script type="text/javascript">
